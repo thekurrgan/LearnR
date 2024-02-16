@@ -23,7 +23,7 @@ A widely-accepted guide to formatting your R code. This style is used in the "ti
 [Introduction to R](https://r-unimelb.gitbook.io/rbook/)<br>
 A short introduction to R for non-programmers, to get them familiar with RStudio and the fundamentals of R for basic data analysis.
 
-[R for Data Science](https://r4ds.had.co.nz/index.html)<br>
+[R for Data Science, 2nd edition](https://r4ds.hadley.nz/)<br>
 Some familiarity with R is assumed, but not much. Works a lot with the "tidyverse" packages (e.g. ggplot, dplyr, tidyr), so familiarity with base R is less important.
 
 [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)<br>
