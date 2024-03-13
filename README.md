@@ -29,6 +29,9 @@ Guidance on using Projects within RStudio to improve clarity and transferability
 [The tidyverse style guide (Wickham)](https://style.tidyverse.org/)<br>
 A widely-accepted guide to formatting your R code. This style is used in the "tidyverse" packages (e.g. ggplot, dplyr, etc) and references certain tidyverse constructs that aren't universal (e.g. magrittr).
 
+[Travis Gerke's 'R code review checklist'](https://github.com/tgerke/r-code-review-checklist)<br>
+Before sharing R code, run through this checklist! It's mainly oriented for people sharing whole repositories/projects, not just individual scripts. However, many of the tenets are still very much applicable to individual scripts!
+
 ## Textbooks (all books are free and online unless otherwise specified!)
 
 [R for Beginners (Paradis, 2005)](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)<br>
