@@ -18,29 +18,35 @@ An introduction to R for non-programmers, created by Norm Matloff (U.C. Davis). 
 A series of online learning resources for using R. Oriented towards R beginners and aims to provide a solid foundation of R skills. Created by the group [R-Ladies Sydney](https://rladiessydney.org/).
 
 ## Best Practices Guides
-[R Code - Best Practices (R-bloggers](https://www.r-bloggers.com/2018/09/r-code-best-practices/)<br>
+[R Code - Best Practices (R-bloggers, 2018)](https://www.r-bloggers.com/2018/09/r-code-best-practices/)<br>
 Some tips for coding and organizational practices to make your life (and your teammates' lives) easier.
 
-[Project-Oriented Workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)<br>
+[Project-Oriented Workflow (Jenny Bryan, 2017)](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)<br>
 Guidance on using Projects within RStudio to improve clarity and transferability of code. Intended to get people away from hardcoding directories and other workflow-specific elements into their scripts. Bit of a rant, but also good information.
+
+[Good Enough Practices in Scientific Computing (Wilson et al, 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)<br>
+Frequentlycited in the scientific R community, this article in the journal PLOS outlines 'good enough' (i.e., effective but also reasonably easy to learn and implement) practices for data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts.
 
 ## Style guides
 
-[The tidyverse style guide (Wickham)](https://style.tidyverse.org/)<br>
+[The tidyverse style guide (Wickham, 2019)](https://style.tidyverse.org/)<br>
 A widely-accepted guide to formatting your R code. This style is used in the "tidyverse" packages (e.g. ggplot, dplyr, etc) and references certain tidyverse constructs that aren't universal (e.g. magrittr).
 
-[Travis Gerke's 'R code review checklist'](https://github.com/tgerke/r-code-review-checklist)<br>
+[Travis Gerke's 'R code review checklist' (Gerke, 2021)](https://github.com/tgerke/r-code-review-checklist)<br>
 Before sharing R code, run through this checklist! It's mainly oriented for people sharing whole repositories/projects, not just individual scripts. However, many of the tenets are still very much applicable to individual scripts!
+
+[Code Smells and Feels (Jenny Bryan, 2018)](https://github.com/jennybc/code-smells-and-feels)<br>
+A list of thoughts and links for improving coding practice, created to support a conference presentation Jenny was giving on this subject.
 
 ## Textbooks (all books are free and online unless otherwise specified!)
 
 [R for Beginners (Paradis, 2005)](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)<br>
 An introduction to some of the basic concepts of R.
 
-[R for Data Science, 2nd edition (Wickham)](https://r4ds.hadley.nz/)<br>
+[R for Data Science, 2nd edition (Wickham, 2023)](https://r4ds.hadley.nz/)<br>
 Some familiarity with R is assumed, but not much. Works a lot with the "tidyverse" packages (e.g. dplyr, tidyr), so familiarity with base R is less important.
 
-[Modern Data Visualization with R (Kabacoff)](https://rkabacoff.github.io/datavis/)<br>
+[Modern Data Visualization with R (Kabacoff, 2024)](https://rkabacoff.github.io/datavis/)<br>
 Guide to plots and visualizations in R. Heavy use of ggplot2 package. Author Robert Kabacoff.
 
 [Efficient R Programming (Gillespie and Lovelace, 2016)](https://csgillespie.github.io/efficientR/)<br>
