@@ -24,8 +24,8 @@ Some tips for coding and organizational practices to make your life (and your te
 [Project-Oriented Workflow (Jenny Bryan, 2017)](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)<br>
 Guidance on using Projects within RStudio to improve clarity and transferability of code. Intended to get people away from hardcoding directories and other workflow-specific elements into their scripts. Bit of a rant, but also good information.
 
-[Good Enough Practices in Scientific Computing (Wilson et al, 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)<br>
-Frequentlycited in the scientific R community, this article in the journal PLOS outlines 'good enough' (i.e., effective but also reasonably easy to learn and implement) practices for data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts.
+[Good Enough Practices in Scientific Computing (Wilson et al, 2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)<br>
+Frequently cited in the scientific R community, this article in the journal PLOS outlines 'good enough' (i.e., effective but also reasonably easy to learn and implement) practices for data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts.
 
 ## Style guides
 
