@@ -17,6 +17,10 @@ An introduction to R for non-programmers, created by Norm Matloff (U.C. Davis). 
 [R You With Me](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/)<br>
 A series of online learning resources for using R. Oriented towards R beginners and aims to provide a solid foundation of R skills. Created by the group [R-Ladies Sydney](https://rladiessydney.org/).
 
+## Cheatsheets
+[Cheatsheets repository (RStudio)](https://github.com/rstudio/cheatsheets/tree/main)<br>
+An entire GitHub repository devoted to cheatsheets, created by the RStudio team!
+
 ## Best Practices Guides
 [R Code - Best Practices (R-bloggers, 2018)](https://www.r-bloggers.com/2018/09/r-code-best-practices/)<br>
 Some tips for coding and organizational practices to make your life (and your teammates' lives) easier.
