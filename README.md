@@ -17,13 +17,13 @@ An introduction to R for non-programmers, created by Norm Matloff (U.C. Davis). 
 [R You With Me](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/)<br>
 A series of online learning resources for using R. Oriented towards R beginners and aims to provide a solid foundation of R skills. Created by the group [R-Ladies Sydney](https://rladiessydney.org/).
 
-[NCEAS OSS-2017 Lessons & Materials](https://nceas.github.io/oss-2017/)<br>
-Online materials associated with a 3-week course - the Open Science for Synthesis: Gulf Research Program Workshop (OSS-2017). OSS-2017 was designed for both early career and established researchers to gain skills in data science, including scientific synthesis, reproducible science, and data management. NCEAS (National Center for Ecological Analysis & Synthesis, at University of California, Santa Barbara) freely shares this on their Learning Hub.
-
 [NCEAS Learning Hub's 'CoreR Course' (Oct 2023)](https://learning.nceas.ucsb.edu/2023-10-coreR/)<br>
 Online course materials to accompany a five-day immersion workshop in R programming for environmental data science. NCEAS (National Center for Ecological Analysis & Synthesis, at University of California, Santa Barbara) freely shares this on their Learning Hub.
 
 ## Data Management and Research Ethics
+[NCEAS OSS-2017 Lessons & Materials](https://nceas.github.io/oss-2017/)<br>
+Online materials associated with a 3-week course - the Open Science for Synthesis: Gulf Research Program Workshop (OSS-2017). OSS-2017 was designed for both early career and established researchers to gain skills in data science, including scientific synthesis, reproducible science, and data management. NCEAS (National Center for Ecological Analysis & Synthesis, at University of California, Santa Barbara) freely shares this on their Learning Hub.
+
 [NCEAS Learning Hub's 'Open Science: Best Practices, Data Sovereignty and Co-production'](https://learning.nceas.ucsb.edu/2022-03-assw/index.html)<br>
 Extensive discussion of Indigenous data sovereignty, principles for handling community data, and the ethics of open data in research. NCEAS (National Center for Ecological Analysis & Synthesis, at University of California, Santa Barbara) freely shares this on their Learning Hub.
 
